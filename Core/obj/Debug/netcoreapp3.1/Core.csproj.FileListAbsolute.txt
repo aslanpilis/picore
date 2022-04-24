@@ -1,0 +1,9 @@
+C:\Users\QataSoftG2\Source\Repos\aslanpilis\picore\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\QataSoftG2\Source\Repos\aslanpilis\picore\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\QataSoftG2\Source\Repos\aslanpilis\picore\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\QataSoftG2\Source\Repos\aslanpilis\picore\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\QataSoftG2\Source\Repos\aslanpilis\picore\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\QataSoftG2\Source\Repos\aslanpilis\picore\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\QataSoftG2\Source\Repos\aslanpilis\picore\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\QataSoftG2\Source\Repos\aslanpilis\picore\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\QataSoftG2\Source\Repos\aslanpilis\picore\Core\obj\Debug\netcoreapp3.1\Core.pdb
